@@ -4,6 +4,9 @@ LeetCode is running the 30-Day LeetCoding Challenge for the month of April. Each
 - [x] Day 1: [Single Number](https://github.com/saikot30/30-Day-LeetCoding-Challenge/blob/master/SingleNumber.java)<br/>
 - [x] Day 2: [Happy Number](https://github.com/saikot30/30-Day-LeetCoding-Challenge/blob/master/HappyNumber.java)<br/>
 - [x] Day 3: [Maximum Subarray](https://github.com/saikot30/30-Day-LeetCoding-Challenge/blob/master/MaximunSubarray.java)<br/>
+- [x] Day 4: [Move Zeros](https://github.com/saikot30/30-Day-LeetCoding-Challenge/blob/master/MoveZeros.java)<br/>
+
+
 
 
 
