@@ -9,6 +9,7 @@ LeetCode is running the 30-Day LeetCoding Challenge for the month of April. Each
 - [x] Day 6: [Group Anagrams](https://github.com/saikot30/30-Day-LeetCoding-Challenge/blob/master/GroupAnagrams.java)<br/>
 - [x] Day 7: [Counting Elements](https://github.com/saikot30/30-Day-LeetCoding-Challenge/blob/master/CountingElements.java)<br/>
 - [x] Day 8: [Middle of the Linked List](https://github.com/saikot30/30-Day-LeetCoding-Challenge/blob/master/MiddleOfTheLinkedList.java)<br/>
+- [x] Day 9: [Backspace String Compare](https://github.com/saikot30/30-Day-LeetCoding-Challenge/blob/master/BackspaceStringCompare.java)<br/>
 
 
 
