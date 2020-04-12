@@ -10,6 +10,9 @@ LeetCode is running the 30-Day LeetCoding Challenge for the month of April. Each
 - [x] Day 7: [Counting Elements](https://github.com/saikot30/30-Day-LeetCoding-Challenge/blob/master/CountingElements.java)<br/>
 - [x] Day 8: [Middle of the Linked List](https://github.com/saikot30/30-Day-LeetCoding-Challenge/blob/master/MiddleOfTheLinkedList.java)<br/>
 - [x] Day 9: [Backspace String Compare](https://github.com/saikot30/30-Day-LeetCoding-Challenge/blob/master/BackspaceStringCompare.java)<br/>
+- [x] Day 10: [Min Stack](https://github.com/saikot30/30-Day-LeetCoding-Challenge/blob/master/MinStack.java)<br/>
+- [x] Day 11: [Diameter of Binary Tree](https://github.com/saikot30/30-Day-LeetCoding-Challenge/blob/master/DiameterOfBinaryTree.java)<br/>
+- [x] Day 12: [Last Stone Weight](https://github.com/saikot30/30-Day-LeetCoding-Challenge/blob/master/LastStoneWeight.java)<br/>
 
 
 
